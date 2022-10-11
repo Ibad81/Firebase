@@ -1,0 +1,112 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgba(222, 217, 217, 0.386);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#login-box{
+    width: 40%;
+    height:200px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    background-color:#ffff;
+    padding: 20px;
+}
+#login-box .left{
+    background-color:#ffff;
+    position:absolute;
+    padding-right: 5;
+    width: fit-content;
+    width: 20%;
+    height: 200px;
+}
+#login-box .right{
+     
+    position:relative;
+    margin-left: 55%;
+    padding-left: 10px;
+    width: 20%;
+    width: fit-content;
+    height: 200px;
+    background-color: #ffff;
+}
+#login-box .or{
+    position:absolute;
+    margin-left: 24%;
+    
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: x-large;
+}
+#username{
+    margin: 2%;
+    outline: 0px;
+    /* border: ; */
+    border-top: #ffff;
+    border-left:#ffff ;
+    border-right:#ffff;
+}
+#email{
+    margin: 2%;
+    outline: 0px;
+    /* border: ; */
+    border-top: #ffff;
+    border-left:#ffff ;
+    border-right:#ffff;
+}
+#password{
+    margin: 2%;
+    outline: 0px;
+    /* border: ; */
+    border-top: #ffff;
+    border-left:#ffff ;
+    border-right:#ffff;
+}
+#signUp{
+    margin: 2%;
+    background-color: #008000;
+    border: #008000;
+    color: #ffff;
+    width: 50%;
+    padding-bottom: 1%;
+
+}
+.loginwith{
+    background-color: antiquewhite;
+    font-size:smaller;
+}
+.Social-signin-facebook{
+    margin-top: 50px;
+    margin-bottom: 5%;
+    background-color: #3b5998;
+    border: #3b5998;
+    width: 100%;
+    color: #ffff;
+    padding-bottom: 1%;
+
+}
+.Social-signin-twitter{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
+    background-color: #00ACEE;
+    border:#00ACEE;
+    color: #ffff;
+    padding-bottom: 1%;
+
+}.Social-signin-Google{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
+    
+    background-color: #da4a39;
+    border:#da4a39;
+    color: #ffff;
+    padding-bottom: 1%;
+}
